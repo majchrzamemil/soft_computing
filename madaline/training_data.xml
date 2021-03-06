@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="12">
+<trainingPattern class_id="0" tracking_level="0" version="0">
+	<size>16</size>
+	<expectedOutput>z</expectedOutput>
+  <input>1</input><input>1</input><input>1</input><input>1</input>
+  <input>0</input><input>0</input><input>1</input><input>0</input>
+  <input>0</input><input>1</input><input>0</input><input>0</input>
+  <input>1</input><input>1</input><input>1</input><input>1</input>
+</trainingPattern>
+<trainingPattern class_id="0" tracking_level="0" version="0">
+	<size>16</size>
+	<expectedOutput>x</expectedOutput>
+  <input>1</input><input>0</input><input>0</input><input>1</input>
+  <input>0</input><input>1</input><input>1</input><input>0</input>
+  <input>0</input><input>1</input><input>1</input><input>0</input>
+  <input>1</input><input>0</input><input>0</input><input>1</input>
+</trainingPattern>
+</boost_serialization>
+
